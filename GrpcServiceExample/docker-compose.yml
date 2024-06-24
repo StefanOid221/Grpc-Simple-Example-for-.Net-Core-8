@@ -1,0 +1,6 @@
+services:
+  app:
+    build:
+      dockerfile: GrpcServiceExample/Dockerfile
+    ports:
+      - 8085:8080

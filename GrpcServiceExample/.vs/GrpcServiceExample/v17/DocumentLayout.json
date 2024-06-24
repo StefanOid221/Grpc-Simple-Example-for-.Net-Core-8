@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{758AFD88-F6EC-4C5A-AA53-C762044DC174}|Elementos de la soluci\u00F3n{758AFD88-F6EC-4C5A-AA53-C762044DC174}|C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{758AFD88-F6EC-4C5A-AA53-C762044DC174}|Elementos de la soluci\u00F3n{758AFD88-F6EC-4C5A-AA53-C762044DC174}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|c:\\users\\mstefan\\desktop\\project_grpc\\grpcserviceexample\\grpcserviceexample\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{1BDACF2A-9987-488F-B38D-D5702D62FA88}|GrpcServiceExample\\GrpcServiceExample.csproj|solutionrelative:grpcserviceexample\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-24T11:07:23.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\appsettings.Development.json",
+              "RelativeToolTip": "GrpcServiceExample\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T09:57:03.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcServiceExample\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T09:56:29.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Dockerfile",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\Dockerfile",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Dockerfile",
+              "RelativeToolTip": "GrpcServiceExample\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-24T09:56:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Program.cs",
+              "RelativeToolTip": "GrpcServiceExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:21:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Services\\GreeterService.cs",
+              "RelativeToolTip": "GrpcServiceExample\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:20:30.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcServiceExample\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\mstefan\\Desktop\\Project_gRPC\\GrpcServiceExample\\GrpcServiceExample\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcServiceExample\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-06-24T09:19:24.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
